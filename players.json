@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TestPlayer",
+    "modes": {
+      "mace": "HT1",
+      "crystal": "HT2",
+      "smp": "LT1",
+      "uhc": "HT3",
+      "axe": "HT1",
+      "sword": "HT1",
+      "diapot": "HT2",
+      "nethpot": "HT1"
+    }
+  }
+]
