@@ -1,0 +1,35 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+.player {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1e293b;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.player img {
+  width: 40px;
+}
+
+#profile {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.hidden {
+  display: none;
+}
